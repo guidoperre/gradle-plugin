@@ -8,5 +8,4 @@ pluginManagement {
 
 rootProject.name = "gradle-plugin"
 
-include(":publish")
 include(":configuration")
